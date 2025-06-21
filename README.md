@@ -1,70 +1,71 @@
 # 👋 Hi, I'm Prashant Kumar
 
 🎓 A recent BCA graduate and passionate software developer, currently working as a **Software Tester Intern**.  
-💻 I’m exploring Java development, REST APIs, and real-world project building.  
-🔍 I'm on a journey of continuous learning and sharing what I build.
+💻 Exploring Java development, REST APIs, and building real-world projects.  
+🔍 On a journey of continuous learning and sharing everything I build.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**  
+**Languages**:  
 Java • SQL
 
-**Core Concepts:**  
-Object-Oriented Programming • DBMS • Operating System • Problem Solving • Software Testing
+**Core Concepts**:  
+OOP • DBMS • Operating Systems • Software Testing • Problem Solving
 
-**Tools & Technologies:**  
+**Tools & Platforms**:  
 VS Code • Git & GitHub • Postman • Manual Testing
 
-**Currently Learning:**  
+**Currently Learning**:  
 Spring Boot • REST APIs
 
 ---
 
 ## 📚 Projects (In Progress)
 
-- 🚀 **Student Info Manager** – Console-based app to manage student records
-- 🧪 **Test Case Tracker** – Bug/test case tracker using Java file handling
-- 💼 **Employee Management API** – REST API using Spring Boot & MySQL
-- 🧮 **Calculator App** – Functional Java calculator using conditionals
+- 🚀 **Student Info Manager** – Console app to manage student records (Java)
+- 🧪 **Test Case Tracker** – Java app to store and manage bug reports
+- 💼 **Employee Management API** – REST API using Spring Boot + MySQL
+- 🧮 **Calculator App** – Java-based CLI calculator using conditionals
 
-> All projects will be added here as I progress. Stay tuned!
+> More projects will be added as I progress. Stay tuned!
 
 ---
 
-## 🔄 GitHub Repositories
+## 📁 GitHub Repositories
 
-📁 **Java-Basics**  
-Step-by-step daily learning of Java fundamentals.  
-Includes folders like `Day-1_Basics`, `Day-2_JavaBasics`, ..., each with:
-- 📌 Programs with real examples
-- 📄 README explaining concepts
-- 🎯 Practice problems
+- **[Java-Basics](https://github.com/Jerry-0016/Java-Basic)** –  
+  Daily Java learning repo with folders like `Day-1_Basics`, `Day-2_JavaBasics`, etc.  
+  Each folder includes:
+  - ✅ Programs with examples
+  - 🧠 Concepts with explanations in README
+  - 🎯 Practice tasks
 
-📁 **LeetCode-Solutions**  
-Started tracking Java solutions for LeetCode from Day 5.  
-Solving 2 problems on weekdays and 4 on weekends.
+- **LeetCode-Solutions** –  
+  Java-based LeetCode practice (started Day 5)  
+  🔹 2 problems on weekdays, 4 on weekends  
+  🔹 Folder: `LeetCode-Solutions`
 
 ---
 
 ## 🧪 Internship Experience
 
 **Software Tester Intern**  
-*Stratosphere IT Services* — March 2025 – Present  
+📍 *Stratosphere IT Services* — March 2025 – Present  
 - Manual Testing of Web Applications  
 - Creating and executing test cases  
-- Collaborating with devs to report bugs  
-- Understanding of SDLC & defect lifecycle
+- Reporting bugs and collaborating with developers  
+- Exposure to SDLC, STLC, and documentation
 
 ---
 
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashantkumar-dev/)
-- 📧 Email: [pishu234@gmail.com](mailto:pishu234@gmail.com)
-- 💻 GitHub: [Jerry-0016](https://github.com/Jerry-0016)
+- 📧 [pishu234@gmail.com](mailto:pishu234@gmail.com)
+- 💻 [GitHub](https://github.com/Jerry-0016)
 
 ---
 
-> 👨‍💻 Let's learn, build, and grow — one line of code at a time!
+> 👨‍💻 *Let’s learn, build, and grow — one line of code at a time!*
