@@ -65,13 +65,6 @@ Spring Boot • REST APIs
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashantkumar-dev/)
 - 📧 [pishu234@gmail.com](mailto:pishu234@gmail.com)
 - 💻 [GitHub](https://github.com/Jerry-0016)
----
-
-### 📊 GitHub Stats
-
-![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerry-0016&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-0016&layout=compact&theme=tokyonight)
 
 ---
 
