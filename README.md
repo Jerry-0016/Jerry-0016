@@ -60,11 +60,11 @@ Spring Boot • REST APIs
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Contact Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prashantkumar-dev/)
-- 📧 [pishu234@gmail.com](mailto:pishu234@gmail.com)
-- 💻 [GitHub](https://github.com/Jerry-0016)
+- 📧 Email: [pishu234@gmail.com](mailto:pishu234@gmail.com)  
+- 🔗 LinkedIn: [Prashant Kumar](https://www.linkedin.com/in/prashantkumar-dev/)  
+- 💻 GitHub: [Jerry-0016 (Private View Access on Request)](https://github.com/Jerry-0016)
 
 ---
 
